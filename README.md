@@ -60,3 +60,6 @@ A few takeaways:
 - The best results for message queues might be due to a certain overhead of semaphores and ``wait`` in other methods.
 - All throughputs listed here are quite huge (up to tens of Gbps) compared to common Internet speeds (typically hundreds of Mbps), since our setup might experience fewer impeding factors than the Internet networks.
 - Default capacity for named pipes and message queues is quite low by default but can nonetheless be increased manually if necessary.
+
+## Also
+Shoutout to [Jacob Sorber](https://www.youtube.com/@JacobSorber) for his awesome tutorials on programming in C and IPC specifically!
