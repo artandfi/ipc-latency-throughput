@@ -1,7 +1,7 @@
 # IPC Latency, Throughput & Capacity
 This is a repo for my implementation of a lab work on "Modern Operating Systems" course at Taras Shevchenko National University of Kyiv on the Faculty of Computer Science and Cybernetics at Computer Science Master's.
 
-The goal is to measure latency & throughput for different IPC media, such as:
+The goal is to measure latency, throughput & capacity for different IPC media, such as:
 - mmap, both in ``SHARED`` and ``ANONYMOUS`` modes
 - shared memory
 - file
